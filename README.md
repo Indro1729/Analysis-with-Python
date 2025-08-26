@@ -67,4 +67,4 @@ Run all cells to reproduce the analysis.
 
 ![visualization preview](https://github.com/Indro1729/Analysis-with-Python/blob/main/Sales%20Analysis%20by%20Category.png)
 
-
+![visualization preview](https://github.com/Indro1729/Analysis-with-Python/blob/main/Sales%20Analysis%20by%20Sub-Category.png)
