@@ -62,6 +62,7 @@ jupyter notebook "e commerce sales.ipynb"
 Run all cells to reproduce the analysis.
 
 📊 Example Visualizations
+![visualization preview](https://github.com/Indro1729/Analysis-with-Python/blob/main/Monthly%20Sales.png)
 
 
 
