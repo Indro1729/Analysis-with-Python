@@ -65,6 +65,4 @@ Run all cells to reproduce the analysis.
 
 
 
-🤝 Contributing
 
-Contributions are welcome! If you’d like to improve the analysis, add features, or optimize visualizations, feel free to fork the repo and submit a pull request.
